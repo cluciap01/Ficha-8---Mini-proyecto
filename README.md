@@ -31,3 +31,15 @@
         -Gestionar las recomendaciones de vídeos.
         -Controlar el acceso a los contenidos.
     -También intervienen sistemas de almacenamiento y distribución de vídeos para que puedan reproducirse correctamente.
+
+# Modelo cliente-servidor
+
+    -YouTube utiliza el modelo cliente-servidor para comunicarse con los usuarios.
+    -Su funcionamiento se puede resumir en los siguientes pasos:
+        -El usuario abre YouTube desde su navegador.
+        -El navegador actúa como cliente y envía peticiones a los servidores de YouTube.
+        -Los servidores reciben las peticiones y procesan la información solicitada.
+        -El servidor devuelve una respuesta al navegador.
+        -El navegador interpreta la respuesta y muestra el contenido al usuario.
+
+    -Por ejemplo, cuando buscamos un vídeo, el navegador envía una petición al servidor. YouTube procesa la búsqueda y devuelve los resultados para que aparezcan en pantalla.
